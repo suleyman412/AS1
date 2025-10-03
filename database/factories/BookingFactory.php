@@ -9,6 +9,7 @@ use App\Models\Guest;
 /**
  * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\Booking>
  */
+
 class BookingFactory extends Factory
 {
     /**
